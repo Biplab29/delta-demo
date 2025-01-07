@@ -4,6 +4,6 @@ This is a demo for git &amp; github.
 # student
 Biplab Mahata 
 
-# Dist
-Jhargram
+# teacher
+ABCD
 
